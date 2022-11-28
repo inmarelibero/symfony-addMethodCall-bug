@@ -7,5 +7,5 @@ To reproduce the issue:
 
 1. clear cache
 2. run `bin/console bin/console app:demo-command:working` -> this works fine
-3. run `bin/console bin/console app:demo-command:bugged` -> this shows the possible buh
+3. run `bin/console bin/console app:demo-command:bugged` -> this shows the possible bug
 
